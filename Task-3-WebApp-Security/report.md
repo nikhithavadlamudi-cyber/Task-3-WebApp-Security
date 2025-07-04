@@ -3,6 +3,10 @@
 ## 🔍 Target Website:
 https://testphp.vulnweb.com
 
+use an alternative XSS Demo Site
+
+https://xss-game.appspot.com/level1
+
 This is a legal, intentionally vulnerable web application provided by Acunetix for learning and testing purposes.
 
 ---
